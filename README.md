@@ -6,4 +6,4 @@ You can use it with the [F-Droid](https://f-droid.org/) Android app.
 
 [![https://raw.githubusercontent.com/forrestguice/IntervalMidpoints-nightly/master/fdroid/repo](https://raw.githubusercontent.com/forrestguice/IntervalMidpoints-nightly/master/fdroid/repo/icons/icon.png)](https://fdroid.link/#https://raw.githubusercontent.com/forrestguice/IntervalMidpoints-nightly/master/fdroid/repo)
 
-Last updated: 2025-08-13 19:28:54 UTC
+Last updated: 2025-08-14 17:36:25 UTC
